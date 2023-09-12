@@ -1,0 +1,43 @@
+h1 {
+  text-align:center;
+  color:white;
+}
+p{
+  font-size:25px;
+  text-align:center;
+  padding:5px;
+  color:white;
+}
+body{
+  background:#1a0941;
+}
+a {
+  text-decoration:none;
+  color:white;
+}
+a:hover {
+background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+#container{
+  max-width:900px;
+  background-color:#1a0941;
+  margin:0 auto;
+}
+#pbox {
+  color:white;
+  text-align:center;
+  font-size:25px;
+  width:50%;
+  display:box;
+  margin:0 auto;
+}
+#txt{
+  font-size:medium;
+}
+#button {
+  width:150px;
+  display:box;
+  margin:0 auto;
+}
